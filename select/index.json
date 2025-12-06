@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "カトレア",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-06T05:53:47.907913Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カトレア",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_カトレア_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カトレア",
+      "artist": "ヨルシカ & n-buna",
+      "has_synced": true,
+      "path": "select/02_カトレア_ヨルシカ_&_n-buna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カトレア",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/03_カトレア_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カトレア",
+      "artist": "ヨルシカ (Yorushika)",
+      "has_synced": true,
+      "path": "select/04_カトレア_ヨルシカ_(Yorushika).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カトレア",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_カトレア_ヨルシカ.txt"
+    }
+  ]
+}
